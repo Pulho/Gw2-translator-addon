@@ -73,3 +73,6 @@ class Overlay:
     def run(self) -> None:
         self.text = "Gw2 translator addon"
         self.root.mainloop()
+
+
+# /
